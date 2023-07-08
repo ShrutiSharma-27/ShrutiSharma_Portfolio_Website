@@ -105,10 +105,10 @@ img {
 }
 
 .certif {
-    margin-left: 1.65%;
-    margin-bottom: 3%;
-    height: 280px;
-    width: 440px;
+    margin-left: 18.5%;
+    margin-bottom: 4%;
+    height: 560px;
+    width: 880px;
     border: 2px solid white;
 }
 
@@ -122,4 +122,10 @@ background-color: #344D67;
 
 #img7 {
     height: 55px;
+}
+
+#CertiHead {
+    font-family: 'Courgette', cursive;
+    font-size: larger;
+
 }
