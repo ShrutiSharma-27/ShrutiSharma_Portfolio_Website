@@ -1,0 +1,125 @@
+html {
+    background-color: #F3ECB0;
+    color: #344D67;
+    text-decoration: none;
+}
+
+.intro {
+    font-size: 90px;
+}
+
+a {
+    text-decoration: none; /*to remove underline of link*/
+    color: inherit; /*to allow link text to inherit any color instead of default blue color*/
+}
+
+img {
+    height: 340px;
+    margin-left: 3%;
+}
+
+#hey {
+    font-family: 'Homemade Apple', cursive;
+}
+
+#name {
+    font-family: 'Caveat', cursive;
+}
+
+.top {
+    padding: 2px;
+    text-align: center;
+    border: 0px solid whitesmoke;
+    margin: 0px;
+}
+
+.button {
+    font-weight: bold;
+    transition: .2s;
+    font-size: 30px;
+    font-family: 'Caveat', cursive;
+    background-color: #6ECCAF;
+    border: 6px solid white;
+    border-radius: 10%;
+    width: 300px;
+    padding: 0px;
+    margin-left: 39%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    text-align: center;
+    cursor: grab;
+}
+
+.button:hover {
+    transform: scale(1.4);
+}
+
+.note {
+    font-size: 20px;
+    border: 10px solid white;
+    border-radius: 5%;
+    background-color: #F3ECB0;
+    font-family: 'Courgette', cursive;
+    width: 60%;
+    margin-left: 18%;
+    margin-top: 6%;
+    padding: 20px;
+    text-align: justify;
+}
+
+.creImg {
+    border: 3px solid white;
+    display: inline-block;
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+
+#i1 {
+    margin-left: 22.5%;
+}
+
+.heading {
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+    font-size: 100px;
+}
+
+.projImg {
+    border: 3px solid white;
+}
+
+#i2{
+    margin-left: 26.5%;
+}
+
+#i3 {
+    margin-left: 28.5%;
+}
+
+#i4 {
+    margin-left: 44.5%;
+}
+
+#i5 {
+    margin-left: 24%;
+}
+
+.certif {
+    margin-left: 1.65%;
+    margin-bottom: 3%;
+    height: 280px;
+    width: 440px;
+    border: 2px solid white;
+}
+
+#img6 {
+background-color: #344D67;
+}
+
+.icon{
+    height: 40px;
+}
+
+#img7 {
+    height: 55px;
+}
